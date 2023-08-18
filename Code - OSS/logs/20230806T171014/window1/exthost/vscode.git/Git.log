@@ -1,0 +1,109 @@
+2023-08-06 17:10:23.185 [info] Log level: Info
+2023-08-06 17:10:23.186 [info] Validating found git in: "git"
+2023-08-06 17:10:23.186 [info] Using git "2.41.0" from "git"
+2023-08-06 17:10:23.186 [info] > git rev-parse --show-toplevel [18ms]
+2023-08-06 17:10:23.186 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-06 17:10:23.186 [info] > git rev-parse --show-toplevel [16ms]
+2023-08-06 17:10:23.186 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-06 17:10:23.186 [info] > git rev-parse --show-toplevel [12ms]
+2023-08-06 17:10:23.186 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-06 17:10:23.186 [info] > git rev-parse --show-toplevel [5ms]
+2023-08-06 17:10:23.186 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-06 17:10:23.188 [info] > git rev-parse --show-toplevel [3ms]
+2023-08-06 17:10:23.188 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-06 17:10:23.198 [info] > git rev-parse --show-toplevel [2ms]
+2023-08-06 17:10:23.198 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-06 17:10:23.207 [info] > git rev-parse --show-toplevel [2ms]
+2023-08-06 17:10:23.207 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-06 17:10:23.217 [info] > git rev-parse --show-toplevel [2ms]
+2023-08-06 17:10:23.217 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-06 17:10:23.227 [info] > git rev-parse --show-toplevel [2ms]
+2023-08-06 17:10:23.227 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-06 17:10:23.242 [info] > git rev-parse --show-toplevel [7ms]
+2023-08-06 17:10:23.242 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-06 17:10:23.254 [info] > git rev-parse --show-toplevel [2ms]
+2023-08-06 17:10:23.254 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-06 17:10:23.266 [info] > git rev-parse --show-toplevel [3ms]
+2023-08-06 17:10:23.266 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-06 17:10:23.277 [info] > git rev-parse --show-toplevel [2ms]
+2023-08-06 17:10:23.277 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-06 17:10:23.289 [info] > git rev-parse --show-toplevel [3ms]
+2023-08-06 17:10:23.289 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-06 17:10:23.299 [info] > git rev-parse --show-toplevel [2ms]
+2023-08-06 17:10:23.299 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-06 17:10:23.309 [info] > git rev-parse --show-toplevel [1ms]
+2023-08-06 17:10:23.309 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-06 17:10:23.318 [info] > git rev-parse --show-toplevel [1ms]
+2023-08-06 17:10:23.318 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-06 17:10:23.329 [info] > git rev-parse --show-toplevel [3ms]
+2023-08-06 17:10:23.329 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-06 17:10:23.341 [info] > git rev-parse --show-toplevel [3ms]
+2023-08-06 17:10:23.341 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-06 17:10:23.351 [info] > git rev-parse --show-toplevel [2ms]
+2023-08-06 17:10:23.351 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-06 17:10:23.361 [info] > git rev-parse --show-toplevel [1ms]
+2023-08-06 17:10:23.361 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-06 17:10:23.374 [info] > git rev-parse --show-toplevel [3ms]
+2023-08-06 17:10:23.374 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-06 17:10:23.388 [info] > git rev-parse --show-toplevel [4ms]
+2023-08-06 17:10:23.400 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-08-06 17:10:23.440 [info] Open repository: /home/cheaterak/hyprland-void
+2023-08-06 17:10:23.474 [info] > git config --get commit.template [9ms]
+2023-08-06 17:10:23.474 [info] > git rev-parse --show-toplevel [20ms]
+2023-08-06 17:10:23.474 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-08-06 17:10:23.492 [info] > git rev-parse --show-toplevel [12ms]
+2023-08-06 17:10:23.502 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [14ms]
+2023-08-06 17:10:23.515 [info] > git rev-parse --git-dir --git-common-dir [14ms]
+2023-08-06 17:10:23.526 [info] Open repository: /home/cheaterak/pomatez
+2023-08-06 17:10:23.551 [info] > git status -z -uall [38ms]
+2023-08-06 17:10:23.551 [info] > git rev-parse --show-toplevel [15ms]
+2023-08-06 17:10:23.580 [info] > git rev-parse --git-dir --git-common-dir [21ms]
+2023-08-06 17:10:23.589 [info] Open repository: /home/cheaterak/pomotroid
+2023-08-06 17:10:23.597 [info] > git config --get commit.template [49ms]
+2023-08-06 17:10:23.613 [info] > git rev-parse --show-toplevel [17ms]
+2023-08-06 17:10:23.624 [info] > git config --get commit.template [45ms]
+2023-08-06 17:10:23.639 [info] > git rev-parse --git-dir --git-common-dir [16ms]
+2023-08-06 17:10:23.651 [info] Open repository: /home/cheaterak/swaylock-effects
+2023-08-06 17:10:23.663 [info] > git config --get commit.template [51ms]
+2023-08-06 17:10:23.692 [info] > git rev-parse --show-toplevel [29ms]
+2023-08-06 17:10:23.699 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [63ms]
+2023-08-06 17:10:23.726 [info] > git rev-parse --git-dir --git-common-dir [27ms]
+2023-08-06 17:10:23.737 [info] Open repository: /home/cheaterak/swaylock-fancy
+2023-08-06 17:10:23.747 [info] > git config --get commit.template [58ms]
+2023-08-06 17:10:23.747 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [68ms]
+2023-08-06 17:10:23.770 [info] > git status -z -uall [13ms]
+2023-08-06 17:10:23.778 [info] > git rev-parse --show-toplevel [32ms]
+2023-08-06 17:10:23.790 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [67ms]
+2023-08-06 17:10:23.814 [info] > git rev-parse --git-dir --git-common-dir [25ms]
+2023-08-06 17:10:23.820 [info] Open repository: /home/cheaterak/void-packages
+2023-08-06 17:10:23.822 [info] > git config --get commit.template [54ms]
+2023-08-06 17:10:23.833 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [21ms]
+2023-08-06 17:10:23.856 [info] > git config --get commit.template [24ms]
+2023-08-06 17:10:23.862 [info] > git status -z -uall [22ms]
+2023-08-06 17:10:23.863 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2023-08-06 17:10:23.906 [info] > git status -z -uall [199ms]
+2023-08-06 17:10:23.907 [info] > git status -z -uall [107ms]
+2023-08-06 17:10:23.907 [info] > git status -z -uall [35ms]
+2023-08-06 17:10:23.963 [info] > git config --get commit.template [59ms]
+2023-08-06 17:10:23.963 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [68ms]
+2023-08-06 17:10:23.990 [info] > git config --get commit.template [35ms]
+2023-08-06 17:10:23.990 [info] > git config --get commit.template [44ms]
+2023-08-06 17:10:24.003 [info] > git config --get commit.template [14ms]
+2023-08-06 17:10:24.062 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [43ms]
+2023-08-06 17:10:24.083 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [83ms]
+2023-08-06 17:10:24.110 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [49ms]
+2023-08-06 17:10:24.117 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [74ms]
+2023-08-06 17:10:24.126 [info] > git status -z -uall [23ms]
+2023-08-06 17:10:24.139 [info] > git status -z -uall [23ms]
+2023-08-06 17:10:24.172 [info] > git status -z -uall [47ms]
+2023-08-06 17:10:24.212 [info] > git status -z -uall [130ms]
+2023-08-06 17:10:24.499 [info] > git check-ignore -v -z --stdin [56ms]
+2023-08-06 17:10:24.501 [info] > git check-ignore -v -z --stdin [46ms]
+2023-08-06 17:10:24.503 [info] > git check-ignore -v -z --stdin [36ms]
+2023-08-06 17:10:24.504 [info] > git check-ignore -v -z --stdin [28ms]
+2023-08-06 17:10:24.505 [info] > git check-ignore -v -z --stdin [22ms]
+2023-08-06 17:10:24.506 [info] > git check-ignore -v -z --stdin [11ms]
+2023-08-06 17:10:25.004 [info] > git status -z -uall [1031ms]
+2023-08-06 17:10:25.021 [info] > git config --get commit.template [3ms]
+2023-08-06 17:10:25.039 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-08-06 17:10:25.391 [info] > git status -z -uall [345ms]

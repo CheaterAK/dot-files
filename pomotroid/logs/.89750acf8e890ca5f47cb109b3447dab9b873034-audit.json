@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/cheaterak/.config/pomotroid/logs/.89750acf8e890ca5f47cb109b3447dab9b873034-audit.json",
+    "files": [
+        {
+            "date": 1691117114836,
+            "name": "/home/cheaterak/.config/pomotroid/logs/pomotroid-2023-08-04.log",
+            "hash": "bdf4dbef6adae9a3ee3af7aa7edadd78"
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+(s)|{"appid":"1c804859-46b3-451e-9667-d04d291c52ec","userid":"f0a7a7cc664570740b89d97c2576bee5","sessionid":3178812447632464462,"platform":"LinuxPlayer","platformid":13,"sdk_ver":"u2021.3.18f1","sdk_rev":"3129e69bc0c7","session_count":4,"localprojectid":"f9f198b884383df49b0722771c0305ff","build_guid":"4821b475f23cb7c49814c24111bb2d22","deviceid":"eb53bc0b850c43919861ffe464ab12bb","identity_token":"f0a7a7cc664570740b89d97c2576bee5"}
+(g)|2
+(1){"type":"perf.startupTime.v1","msg":{"ts":1692203666518,"t_since_start":4341543,"gfx_before_init":302944,"gfx_initialized":309092,"gfx_done":931851,"first_scene":952957,"scene_init":986539,"scene_done":4341536}}

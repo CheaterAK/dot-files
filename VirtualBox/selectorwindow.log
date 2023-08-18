@@ -1,0 +1,22 @@
+00:00:00.507710 VirtualBox GUI VM Selector Window 7.0.10 r158379 linux.amd64 (Aug  1 2023 02:02:41) release log
+00:00:00.507712 Log opened 2023-08-15T06:56:22.865152000Z
+00:00:00.507713 Build Type: release
+00:00:00.507719 OS Product: Linux
+00:00:00.507720 OS Release: 6.3.13_1
+00:00:00.507721 OS Version: #1 SMP PREEMPT_DYNAMIC Tue Jul 25 00:19:40 UTC 2023
+00:00:00.507757 DMI Product Name: HUMA H4 V5.2
+00:00:00.507765 DMI Product Version: V1.02.X
+00:00:00.507774 Firmware type: UEFI
+00:00:00.508167 Secure Boot: Disabled
+00:00:00.508215 Host RAM: 15739MB (15.3GB) total, 13503MB (13.1GB) available
+00:00:00.508220 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.508221 Process ID: 20193
+00:00:00.508221 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.508269 Qt version: 5.15.7
+00:00:00.508872 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.514425 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.315033 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:01.351779 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 699x393 x 960x540
+00:00:13.061419 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:00:14.519961 GUI: UICommon: Handling aboutToQuit request..
+00:00:15.339152 GUI: UICommon: aboutToQuit request handled!

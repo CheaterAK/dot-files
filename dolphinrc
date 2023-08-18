@@ -1,0 +1,14 @@
+[General]
+Version=202
+ViewPropsTimestamp=2023,7,29,15,50,52.813
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[PreviewSettings]
+Plugins=windowsimagethumbnail,windowsexethumbnail,svgthumbnail,opendocumentthumbnail,kraorathumbnail,jpegthumbnail,imagethumbnail,exrthumbnail,ebookthumbnail,djvuthumbnail,cursorthumbnail,comicbookthumbnail,audiothumbnail,directorythumbnail
